@@ -1,0 +1,1 @@
+wordList = ["amor", "paz", "qualidade", "felicidade", "familia", "conhecimento", "sabedoria"]
