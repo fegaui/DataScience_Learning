@@ -1,4 +1,6 @@
-# PythonLearning
-This repository will serve as a progress tracker for my python learning journey
+# Journey for becoming a machine learning expert
 
-current course: 100 days of code https://www.udemy.com/course/100-days-of-code/
+This repository will serve as a progress tracker for my data science learning journey
+
+## Python
+  current course: 100 days of code https://www.udemy.com/course/100-days-of-code/
